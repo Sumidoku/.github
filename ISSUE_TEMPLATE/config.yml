@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://sumidoku.github.io/docs/intro/
+    about: Configuration, authentication, sidecars, backup and more — check the docs first.
+  - name: Website
+    url: https://sumidoku.github.io
+    about: Project site and documentation hub.
