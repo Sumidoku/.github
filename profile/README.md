@@ -14,14 +14,6 @@
 | [Sumidoku.github.io](https://github.com/Sumidoku/Sumidoku.github.io) | The project site and documentation hub. |
 | [oauth](https://github.com/Sumidoku/oauth) | OAuth callback relay used by Sumidoku's tracker integrations. Internal component — nothing to install on its own. |
 
-## Get started
-
-```sh
-docker compose up -d
-```
-
-Then open http://localhost:3000. A portable Windows app is also available on the [latest release](https://github.com/Sumidoku/Sumidoku/releases/latest). See the [installation guide](https://sumidoku.github.io/docs/installation/) for all options.
-
 ## Contributing
 
 Issues and pull requests are welcome on the [main repository](https://github.com/Sumidoku/Sumidoku). The project is built and maintained by agent sessions — [AGENTS.md](https://github.com/Sumidoku/Sumidoku/blob/main/AGENTS.md) is the entry point for how that works, and [docs/contributors.md](https://github.com/Sumidoku/Sumidoku/blob/main/docs/contributors.md) describes how community PRs are triaged and reviewed.
