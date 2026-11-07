@@ -4,8 +4,6 @@
 
 [Website](https://sumidoku.github.io) · [Documentation](https://sumidoku.github.io/docs/intro/) · [Releases](https://github.com/Sumidoku/Sumidoku/releases)
 
-![The Sumidoku library view](https://raw.githubusercontent.com/Sumidoku/Sumidoku/main/docs/images/library.png)
-
 ## Repositories
 
 | Repository | What it is |
